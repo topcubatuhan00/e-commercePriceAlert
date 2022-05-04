@@ -72,5 +72,5 @@ while condition:
     else:
         pass
     
-    time.sleep(10)
+    time.sleep(1800)
     
